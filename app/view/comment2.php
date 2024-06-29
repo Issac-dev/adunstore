@@ -1,0 +1,2 @@
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v19.0" nonce="SQ64vMRL"></script>
+<div class="fb-like" data-href="https://birthsage.com/<?php echo "$id"; ?>" data-width="500" data-layout="" data-action="" data-size="" data-share="true"></div>
